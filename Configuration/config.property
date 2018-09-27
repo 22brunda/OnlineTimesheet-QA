@@ -1,0 +1,4 @@
+Browser=chrome
+ChromeDriver=/bin/chromedriver
+Url=http://qualitypointtech.net/timesheetdemo/index.php?login=norecord
+Environment=local
